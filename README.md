@@ -40,3 +40,6 @@ The result is shown in the browser, with compression metrics
 Why it is useful:
 This task demonstrates a practical NLP pipeline for document summarization, combining document parsing, transformer-based generation, and a user-friendly web front end. It is suitable for rapid prototyping and presentation of an NLP summarization capability.
 
+*OUTPUT* :
+https://github.com/user-attachments/assets/446d830d-f3fa-4a16-bf8a-3ef1313f1d71
+
